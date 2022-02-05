@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>circle with text</title>
+  </head>
+  <body>
+    <table>
+      <tr>
+        <td>
+          <div style="position: relative;
+  background-color:#CCBF29;
+  margin: 20px auto;
+  width: 200px;
+  height: 200px;
+  border-radius: 200px;">
+            <div style="position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+  color: #fff;">In Progress</div>
+            <div  style="position: absolute;
+  top: 60%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+  color: #fff;">{0}</div>
+          </div>
+        </td>
+        <td>
+          <div style="position: relative;
+  background-color: #E68132;
+  margin: 20px auto;
+  width: 200px;
+  height: 200px;
+  border-radius: 200px;">
+            <div style="position: relative;
+  top: 50%;
+  left: 60%;
+  transform: translate(-50%,-50%);
+  color: #fff;">Requested and Approved</div>
+            <div style="position: absolute;
+  top: 60%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+  color: #fff;">{1}</div>
+          </div>
+        </td>
+        <td>
+          <div style="position: relative;
+  background-color: #09f;
+  margin: 20px auto;
+  width: 200px;
+  height: 200px;
+  border-radius: 200px;">
+            <div style="position: relative;
+  top: 50%;
+  left: 60%;
+  transform: translate(-50%,-50%);
+  color: #fff;">BRS Clarification Needed</div>
+            <div style="position: absolute;
+  top: 60%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+  color: #fff;">{2}</div>
+          </div>
+        </td>
+        <td>
+          <div style="position: relative;
+  background-color:#CE61C3;
+  margin: 20px auto;
+  width: 200px;
+  height: 200px;
+  border-radius: 200px;">
+            <div style="position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+  color: #fff;">UAT Sent</div>
+            <div style="position: absolute;
+  top: 60%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+  color: #fff;">{3}</div>
+          </div>
+        </td>
+        <td>
+          <div  style="position: relative;
+  background-color: #DE3163;
+  margin: 20px auto;
+  width: 200px;
+  height: 200px;
+  border-radius: 200px;">
+            <div  style="position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+  color: #fff;">Requested</div>
+            <div  style="position: absolute;
+  top: 60%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+  color: #fff;">{4}</div>
+          </div>
+        </td>
+        <td>
+          <div  style="position: relative;
+  background-color: #1D8348;
+  margin: 20px auto;
+  width: 200px;
+  height: 200px;
+  border-radius: 200px;">
+            <div  style="position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+  color: #fff;">Live</div>
+            <div  style="position: absolute;
+  top: 60%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+  color: #fff;">{5}</div>
+          </div>
+        </td>
+        <td>
+          <div  style="position: relative;
+  background-color: #6495ED;
+  margin: 20px auto;
+  width: 200px;
+  height: 200px;
+  border-radius: 200px;">
+            <div  style="position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+  color: #fff;">BRS pending</div>
+            <div  style="position: absolute;
+  top: 60%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+  color: #fff;">{6}</div>
+          </div>
+        </td>
+        <td>
+          <div  style="position: relative;
+  background-color: #82E0AA;
+  margin: 20px auto;
+  width: 200px;
+  height: 200px;
+  border-radius: 200px;">
+            <div style="position: relative;
+  top: 50%;
+  left: 70%;
+  transform: translate(-50%,-50%);
+  color: #fff;">Live without UAT</div>
+            <div  style="position: absolute;
+  top: 60%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+  color: #fff;">{7}</div>
+          </div>
+        </td>
+        <td>
+          <div  style="position: relative;
+  background-color: #61CEC5;
+  margin: 20px auto;
+  width: 200px;
+  height: 200px;
+  border-radius: 200px;">
+            <div  style="position: relative;
+  top: 50%;
+  left: 70%;
+  transform: translate(-50%,-50%);
+  color: #fff;">UAT confirmed</div>
+            <div  style="position: absolute;
+  top: 60%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+  color: #fff;">{8}</div>
+          </div>
+        </td>
+        </tr>
+        
+    </table>
+  </body>
+</html>
